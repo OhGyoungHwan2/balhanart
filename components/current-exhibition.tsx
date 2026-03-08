@@ -25,25 +25,25 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2025.03.01 — 2025.04.30</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.02.20(금) — 2026.03.08(일)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                봄의 서막
+                조명진 사진전; 묵호사진관
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                새로운 시작을 알리는 봄, 갤러리바란에서 준비한 첫 기획전입니다. 
-                지역 작가들의 신작을 중심으로 자연과 도시, 그리고 그 사이에서 
-                피어나는 예술적 영감을 담았습니다.
+                묵호에서 출발한 여정이 필름 속에 어떻게 녹아들었는지, 
+                그 시간을 따라가며 각자의 시선으로 
+                새로운 이야기를 만들어 보시길 바랍니다.
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>김예술, 이창작, 박미래</span>
+                <span>조명진</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
-                <span>화—일, 10:00—18:00</span>
+                <span>월—일, 10:00—17:00</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">입장료</span>
@@ -52,7 +52,7 @@ export function CurrentExhibition() {
             </div>
 
             <a 
-              href="#contact" 
+              href="https://blog.naver.com/balhan_jaesaeng" 
               className="inline-flex items-center gap-2 text-sm font-medium border-b border-foreground pb-1 w-fit hover:opacity-70 transition-opacity"
             >
               전시 문의하기

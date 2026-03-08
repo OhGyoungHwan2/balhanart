@@ -16,7 +16,7 @@ export default function Home() {
       <ExhibitionArchive />
       <VisitInfo />
       <OpenCall />
-      <ContactForm />
+      {/* <ContactForm /> */}
       <Footer />
     </main>
   )

@@ -24,7 +24,7 @@ export function HeroSection() {
           갤러리바란
         </h1>
         <p className="text-background/80 text-lg md:text-xl font-light max-w-xl mx-auto leading-relaxed">
-          예술과 삶이 만나는 공간
+          지역의 예술이 살아나는 공간
         </p>
         <p className="text-background/60 text-sm mt-4 font-light">
           발한지구 도시재생현장지원센터

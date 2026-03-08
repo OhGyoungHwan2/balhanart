@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Instagram } from "lucide-react"
+import { House, Instagram, Facebook } from "lucide-react"
 
 export function Footer() {
   return (
@@ -42,11 +42,29 @@ export function Footer() {
             <div className="text-sm text-muted-foreground font-light space-y-2">
               <p>발한로 211-5</p>
               <p>발한지구 도시재생현장지원센터</p>
-              <p>contact@gallerybaran.com</p>
+              <p>balhan_jaesaeng@naver.com</p>
             </div>
             <div className="flex gap-4 mt-6">
               <a 
-                href="https://instagram.com" 
+                href="https://blog.naver.com/balhan_jaesaeng" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-foreground transition-colors"
+                aria-label="Instagram"
+              >
+                <House className="h-5 w-5" />
+              </a>
+              <a 
+                href="https://www.facebook.com/balhanjaesaeng" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-foreground transition-colors"
+                aria-label="Instagram"
+              >
+                <Facebook className="h-5 w-5" />
+              </a>
+              <a 
+                href="https://www.instagram.com/balhan_jaesaeng" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
