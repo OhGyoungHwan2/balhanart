@@ -15,8 +15,8 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-1.jpg"
-              alt="2025 봄 기획전"
+              src="/images/artwork-0.jpg"
+              alt="2026 갑산의 봄"
               fill
               className="object-cover"
             />
@@ -25,21 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.02.20(금) — 2026.03.08(일)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.03.14(토) — 2026.04.05(일)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                조명진 사진전; 묵호사진관
+                갑산의 봄
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                묵호에서 출발한 여정이 필름 속에 어떻게 녹아들었는지, 
-                그 시간을 따라가며 각자의 시선으로 
-                새로운 이야기를 만들어 보시길 바랍니다.
+                OOO
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>조명진</span>
+                <span>OOO</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
