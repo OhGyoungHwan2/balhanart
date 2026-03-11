@@ -6,6 +6,7 @@ import { VisitInfo } from "@/components/visit-info"
 import { OpenCall } from "@/components/open-call"
 import { ContactForm } from "@/components/contact-form"
 import { Footer } from "@/components/footer"
+import { About } from "@/components/about"
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />
       <HeroSection />
       <CurrentExhibition />
+      <About />
       <ExhibitionArchive />
       <VisitInfo />
       <OpenCall />

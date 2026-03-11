@@ -20,13 +20,13 @@ export function HeroSection() {
 
       {/* Content */}
       <div className="relative z-10 text-center px-6">
-        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-light text-background tracking-tight mb-6">
+        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-medium text-background tracking-tight mb-6">
           갤러리바란
         </h1>
-        <p className="text-background/80 text-lg md:text-xl font-light max-w-xl mx-auto leading-relaxed">
+        <p className="text-background/80 text-lg md:text-xl font-medium max-w-xl mx-auto leading-relaxed">
           지역의 예술이 살아나는 공간
         </p>
-        <p className="text-background/60 text-sm mt-4 font-light">
+        <p className="text-background/80 text-sm mt-4 font-medium">
           발한지구 도시재생현장지원센터
         </p>
       </div>

@@ -25,19 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.03.14(토) — 2026.04.05(일)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.03.20(금) — 2026.04.12(일)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
                 갑산의 봄
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                OOO
+                깁갑산
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>OOO</span>
+                <span>김갑산</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
