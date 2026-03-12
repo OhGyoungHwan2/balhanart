@@ -50,6 +50,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
+      <head>
+        <meta name="naver-site-verification" content="fd9fd30a5186fdd96542a8ea4c87f41a716a85a3" />
+      </head>
       <body className={`${notoSansKr.variable} ${notoSerifKr.variable} font-sans antialiased`}>
         {children}
         <Analytics />
