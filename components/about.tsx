@@ -15,14 +15,14 @@ export function About() {
               className="object-contain"
             />
           </div>
-          <div className="absolute right-1/8 lg:relative text-right flex flex-col items-end bg-inherit">
+          <div className="absolute right-0 lg:right-1/8 lg:relative text-right flex flex-col items-end bg-inherit">
             <span className="text-xs tracking-widest text-background/60 uppercase">About</span>
             <h2 className="font-serif text-3xl md:text-4xl font-semibold mt-4 tracking-tight mb-8">
               ...갤러리바란은
             </h2>
-            <p className="text-background/80 font-medium leading-relaxed mb-8 max-w-lg wrap-break-word">
+            <p className="text-background/80 font-light leading-relaxed mb-8 max-w-lg wrap-break-word">
               오랜시간 묵호항을 지켜온 구 묵호검역소 건물을<br/>
-              리모델링해 새롭게 태어난 전시·문화예술 체험 공간입니다.<br/>
+              리모델링한 전시문화예술 체험 공간입니다.<br/>
               <br/>
               역사의 숨결 위에 문화의 빛을 더해,<br/>
               일상에서 예술을 만나고 감성을 깨우는<br/>
@@ -32,7 +32,7 @@ export function About() {
               지역과 사람을 이어주고,<br/>
               삶을 풍요롭게 만드는 시민문화의 장.<br/>
               <br/>
-              갤러리바란은 예술과 일상, 과거와 현재가 만나는 곳에서<br/>
+              갤러리바란은 예술·일상, 과거·현재가 만나는 곳에서<br/>
               지역의 이야기를 새롭게 펼쳐가고 있습니다.
             </p>
           </div>

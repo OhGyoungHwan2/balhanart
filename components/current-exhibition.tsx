@@ -15,7 +15,7 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-0.jpg"
+              src="/images/artwork-0.png"
               alt="2026 갑산의 봄"
               fill
               className="object-cover"
