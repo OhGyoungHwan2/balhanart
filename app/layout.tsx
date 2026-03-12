@@ -16,10 +16,19 @@ const notoSansKr = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: '갤러리바란 | Gallery Baran',
-  description: '발한지구 도시재생현장지원센터에 위치한 갤러리바란. 전시 일정, 작가 모집, 방문 정보를 확인하세요.',
+  title: '갤러리바란 | GalleryBaran',
+  description: '발한지구 도시재생현장지원센터에 위치한 갤러리바란입니다. 전시 일정, 지역 작가 모집, 방문 안내 정보를 확인하고 예술을 느껴보세요.',
   generator: 'v0.app',
-  keywords: ['갤러리바란', 'Gallery Baran', '전시', '현대미술', '발한', '도시재생'],
+  keywords: ['갤러리바란', 'Gallery Baran', '발한지구', '전시', '현대미술', '발한', '도시재생', '문화예술'],
+  openGraph:{
+    type:'website',
+    url:'https://balhanart.vercel.app/',
+    title:'갤러리바란 | GalleryBaran',
+    description: '발한지구 도시재생현장지원센터에 위치한 갤러리바란입니다. 전시 일정, 지역 작가 모집, 방문 안내 정보를 확인하고 예술을 느껴보세요.',
+    images:'https://balhanart.vercel.app/images/gallery-space.jpg',
+    siteName:'갤러리바란',
+    locale:'ko_KR'
+  },
   icons: {
     icon: [
       {
