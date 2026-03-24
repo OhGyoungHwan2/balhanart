@@ -44,7 +44,7 @@ export function VisitInfo() {
               <Phone className="h-5 w-5 text-muted-foreground shrink-0 mt-0.5" />
               <div>
                 <h3 className="font-medium mb-2">연락처</h3>
-                <p className="text-muted-foreground font-light">033)534-2214</p>
+                <p className="text-muted-foreground font-light">070)4150-3880</p>
               </div>
             </div>
 
