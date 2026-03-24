@@ -49,12 +49,11 @@ export function CurrentExhibition() {
               </div>
             </div>
 
-            <a 
-              href="mailto:balhan_jaesaeng@naver.com" 
-              className="inline-flex items-center gap-2 text-sm font-medium border-b border-foreground pb-1 w-fit hover:opacity-70 transition-opacity"
+            <p
+              className="inline-flex items-center gap-2 text-sm font-medium pb-1 w-fit"
             >
-              문의 | balhan_jaesaeng@naver.com | 070-4150-3880
-            </a>
+              전시 문의 balhan_jaesaeng@naver.com / 070-4150-3880
+            </p>
           </div>
         </div>
       </div>
