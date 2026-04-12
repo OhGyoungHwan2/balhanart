@@ -9,6 +9,13 @@ const exhibitions = [
     year: "2026",
     items: [
       {
+        title: "갑산의 봄",
+        date: "2026.3.20 — 2026.4.12",
+        artist: "김갑산",
+        image: "/images/artwork-20.png",
+        current: false,
+      },
+      {
         title: "조명진 사진전;묵호사진관",
         date: "2026.2.20 — 2026.3.8",
         artist: "조명진",

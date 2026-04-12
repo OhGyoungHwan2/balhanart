@@ -16,7 +16,7 @@ export function CurrentExhibition() {
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
               src="/images/artwork-0.png"
-              alt="2026 갑산의 봄"
+              alt="2026 나의 작은 아뜰리에"
               fill
               className="object-cover"
             />
@@ -25,19 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.03.20(금) — 2026.04.12(일)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.04.14(화) — 2026.04.29(수)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                갑산의 봄
+                나의 작은 아뜰리에
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                깁갑산
+                동해시 가족센터
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>김갑산</span>
+                <span>동해시 가족센터</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
