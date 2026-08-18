@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react"
 
 export function About() {
   return (
-    <section id="opencall" className="py-24 md:py-32 bg-foreground text-background">
+    <section className="py-24 md:py-32 bg-foreground text-background">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Content */}

@@ -9,6 +9,48 @@ const exhibitions = [
     year: "2026",
     items: [
       {
+        title: "시간의 흔적",
+        date: "2026.7.28 — 2026.8.18",
+        artist: "마르스",
+        image: "/images/artwork-25.png",
+        current: true,
+      },
+      {
+        title: "새들의 기록",
+        date: "2026.7.13 — 2026.7.26",
+        artist: "최민석",
+        image: "/images/artwork-24.png",
+        current: false,
+      },
+      {
+        title: "계절의 온도",
+        date: "2026.6.18 — 2026.7.12",
+        artist: "넌 널사진해",
+        image: "/images/artwork-23.png",
+        current: false,
+      },
+      {
+        title: "동부사택",
+        date: "2026.6.2 — 2026.6.14",
+        artist: "안영배",
+        image: "/images/artwork-22.png",
+        current: false,
+      },
+      {
+        title: "나 사용법",
+        date: "2026.5.4 — 2026.5.30",
+        artist: "장형준",
+        image: "/images/artwork-21.png",
+        current: false,
+      },
+      {
+        title: "나의 작은 아틀리에",
+        date: "2026.4.14 — 2026.4.29",
+        artist: "동해시가족센터",
+        image: "/images/artwork-21.png",
+        current: false,
+      },
+      {
         title: "갑산의 봄",
         date: "2026.3.20 — 2026.4.12",
         artist: "김갑산",

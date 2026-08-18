@@ -9,7 +9,6 @@ const navItems = [
   { href: "#archive", label: "지난 전시" },
   { href: "#visit", label: "방문 안내" },
   { href: "#opencall", label: "작가 모집" },
-  { href: "#contact", label: "문의" },
 ]
 
 export function Header() {
