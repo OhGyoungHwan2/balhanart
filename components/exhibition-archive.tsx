@@ -8,12 +8,20 @@ const exhibitions = [
   {
     year: "2026",
     items: [
+      
+      {
+        title: "民花 향기, 그 이상의 꽃",
+        date: "2026.8.21 — 2026.9.14",
+        artist: "나무숲 민화 창작소",
+        image: "/images/artwork-26.png",
+        current: true,
+      },
       {
         title: "시간의 흔적",
         date: "2026.7.28 — 2026.8.18",
         artist: "마르스",
         image: "/images/artwork-25.png",
-        current: true,
+        current: false,
       },
       {
         title: "새들의 기록",

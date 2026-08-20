@@ -15,8 +15,8 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-25.png"
-              alt="2026 나의 작은 아뜰리에"
+              src="/images/artwork-26.png"
+              alt="민화 향기 그 이상의 꽃"
               fill
               className="object-cover"
             />
@@ -25,19 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.07.28(화) — 2026.08.18(화)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.08.21(금) — 2026.09.14(월)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                시간의 흔적
+                향기 그 이상의 꽃
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                마르스 특별전
+                나무숲 민화 창작소
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>마르스</span>
+                <span>나무숲 민화 창작소</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
