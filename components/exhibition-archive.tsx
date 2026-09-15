@@ -61,7 +61,7 @@ const exhibitions = [
         title: "나의 작은 아틀리에",
         date: "2026.4.14 — 2026.4.29",
         artist: "동해시가족센터",
-        image: "/images/artwork-21.png",
+        image: "/images/artwork-28.png",
         current: false,
       },
       {
