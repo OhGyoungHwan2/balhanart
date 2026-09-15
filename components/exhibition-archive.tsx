@@ -8,13 +8,19 @@ const exhibitions = [
   {
     year: "2026",
     items: [
-      
+      {
+        title: "자연이 건네는 위안: 열 두번째 이야기 ENCORE",
+        date: "2026.9.18 — 2026.9.29",
+        artist: "윤지숙",
+        image: "/images/artwork-27.png",
+        current: false,
+      },
       {
         title: "民花 향기, 그 이상의 꽃",
         date: "2026.8.21 — 2026.9.14",
         artist: "나무숲 민화 창작소",
         image: "/images/artwork-26.png",
-        current: true,
+        current: false,
       },
       {
         title: "시간의 흔적",
