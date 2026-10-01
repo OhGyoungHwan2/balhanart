@@ -15,8 +15,8 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-27.png"
-              alt="자연이 건네는 위안"
+              src="/images/artwork-29.png"
+              alt="그저 좋아서"
               fill
               className="object-cover"
             />
@@ -25,23 +25,23 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.08.21(금) — 2026.09.14(월)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.10.2(금) — 2026.10.14(수)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                자연이 건네는 위안: 열 두번째 이야기 ENCORE
+                그저 좋아서
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                윤지숙 개인전
+                강릉시힐링발달장애인주간활동센터
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>윤지숙</span>
+                <span>강릉시힐링발달장애인주간활동센터</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
-                <span>월—토, 10:00—17:00</span>
+                <span>월—일, 10:00—17:00</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">입장료</span>
