@@ -15,8 +15,8 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-29.png"
-              alt="그저 좋아서"
+              src="/images/artwork-30.jpg"
+              alt="난 널 사진해"
               fill
               className="object-cover"
             />
@@ -25,19 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.10.2(금) — 2026.10.14(수)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.10.17(토) — 2026.10.31(토)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                그저 좋아서
+                계절의 온도 part2
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                강릉시힐링발달장애인주간활동센터
+                난 널 사진해
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>강릉시힐링발달장애인주간활동센터</span>
+                <span>난 날 사진해</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>

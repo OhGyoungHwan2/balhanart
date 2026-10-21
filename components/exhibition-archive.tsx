@@ -9,11 +9,18 @@ const exhibitions = [
     year: "2026",
     items: [
       {
+        title: "계절의 온도 part2",
+        date: "2026.10.17 — 2026.10.31",
+        artist: "난 널 사진해",
+        image: "/images/artwork-30.jpg",
+        current: true,
+      },
+      {
         title: "그저 좋아서",
         date: "2026.10.2 — 2026.10.14",
         artist: "강릉시힐링발달장애인주간활동센터",
         image: "/images/artwork-29.png",
-        current: true,
+        current: false,
       },
       {
         title: "자연이 건네는 위안: 열 두번째 이야기 ENCORE",
