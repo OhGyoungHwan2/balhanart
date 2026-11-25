@@ -9,11 +9,18 @@ const exhibitions = [
     year: "2026",
     items: [
       {
+        title: "For You !",
+        date: "2026.11.19 — 2026.12.2",
+        artist: "동해 사진바다",
+        image: "/images/artwork-32.jpg",
+        current: true,
+      },
+      {
         title: "쪽빛바다 수채화로 물들이다",
         date: "2026.11.3 — 2026.11.15",
         artist: "하얀수채화",
         image: "/images/artwork-31.jpg",
-        current: true,
+        current: false,
       },
       {
         title: "계절의 온도 part2",

@@ -15,8 +15,8 @@ export function CurrentExhibition() {
           {/* Image */}
           <div className="relative aspect-[4/5] overflow-hidden bg-muted">
             <Image
-              src="/images/artwork-31.jpg"
-              alt="쪽빛바다"
+              src="/images/artwork-32.jpg"
+              alt="Foryou사진전"
               fill
               className="object-cover"
             />
@@ -25,19 +25,19 @@ export function CurrentExhibition() {
           {/* Info */}
           <div className="flex flex-col gap-8">
             <div>
-              <p className="text-sm text-muted-foreground mb-3">2026.11.3(화) — 2026.11.15(일)</p>
+              <p className="text-sm text-muted-foreground mb-3">2026.11.19(목) — 2026.12.2(수)</p>
               <h3 className="font-serif text-2xl md:text-3xl font-light tracking-tight mb-4">
-                쪽빛바다 수채화로 물들이다
+                For You !
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                하얀수채화
+                동해 사진바다
               </p>
             </div>
 
             <div className="space-y-4 border-t border-border pt-8">
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">참여 작가</span>
-                <span>하얀수채화</span>
+                <span>동해 사진바다</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-muted-foreground">관람 시간</span>
